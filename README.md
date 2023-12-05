@@ -11,14 +11,14 @@
      
  User space and Kernal space  
  --------  
- 
-<img src="https://github.com/raunakkk21/Keywords/assets/143111163/86aac38c-8d47-497d-a724-57b51decdb3f" height="300" width="500">
+ ![sc](https://github.com/Mragankk/AWS/assets/145200189/3a7b05f2-727b-495c-af22-b5484d2912c0)
 
 
   
 5. **DNS** - turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.  
 - Working of DNS
-<img src="https://github.com/raunakkk21/Keywords/assets/143111163/8d56c5ba-3f89-47f4-9950-3aaa3fad5b7a" height="300" widht="500">
+
+![sc1](https://github.com/Mragankk/AWS/assets/145200189/0baba59c-da0f-4b6f-b34d-d84f8e018901)
 
 6.**ISA** - Instruction Set Architecture is group of commands that processor can perform to execute programs instructions and acts as an interface beteween hardware and 
             software  i.e-input-outputs, registers, data types  
@@ -26,7 +26,7 @@
 - Public IP - B/W Internet and Device, assigned by internet service provider to the device 
 - Private IP(local IP) - non unique
 
- ![1624370268750](https://github.com/raunakkk21/Keywords/assets/143111163/2da39014-6169-4b08-9247-e8d66fef8e6d)
+![sc2](https://github.com/Mragankk/AWS/assets/145200189/d77898cb-3b2e-45f3-aa51-70125bef99a0)
 
 
 9.**Port No.** -It is a 16-bit integer that identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server
