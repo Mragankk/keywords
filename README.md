@@ -2,7 +2,6 @@
 1.**CISC** - Complex Instruction Set Computer- Closed source - intel, AMD  
 2.**RISC** - Reduced Instruction Set Computer- Closed source - ARM  
 3.**RISC-V** - It is an ISA based on reduced instruction set computer (RISC) principles. It is Open Source unlike the parent RISC.  
-
 4.**Kernel** - programm to manage communication between software i.e. user-level applications and hardware i.e., CPU and disk memory
 -  Kernel Programming Languages
    - C++
